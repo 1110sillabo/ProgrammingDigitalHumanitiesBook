@@ -1,6 +1,6 @@
-# ReadMe
+# Programming Digital Humanities. Python (and More) for Academia: Getting Started with the GitHub Repo
 
-This the repo for my book **Programming Digital Humanities. Python (and More) for Academia**.
+This is the repo for my book **Programming Digital Humanities. Python (and More) for Academia**.
 
 The idea of the book is to provide a gentle introduction to programming for academics outside Computer Science/Math and for curious people in general, without disappointing this curiosity. The hard task is that of combining:
 
@@ -12,17 +12,30 @@ The idea of the book is to provide a gentle introduction to programming for acad
 Ok, enough of paradoxes. This is all too hard and I still haven't set on a recipe. Plus, write while learning more makes it harder to settle on something stable. This is an evolving and breathing book, so it's perfect for GitHub.
 
 
-Anyway, **narration** is a great tool and I've set it up. We have a shared or familiar endeavor (academia and research) and we start from there. Both fictionally (read the [intro](LINK)) and practically.
+Anyway, **narration** is a great tool and I've set it up. We have a shared or familiar endeavor (academia and research) and we start from there. Both fictionally (read the [intro](https://github.com/1110sillabo/ProgrammmingDigitalHumanitiesBook/blob/master/Ch1%20-%20Intro/index.md)) and practically.
 
 The point of having the whole book (in progress) out here serves more goals besides showing that GitHub and programming are useful in the Humanities. This is also a learning report.
 
-## Feedback and Open Issues
+## How to View the Files / Issues with the Text
+
+The chapters are written in RMarkdown and the book is meant to be compiled as an R Bookdown project. [Here's an intro on Markdown in general](https://medium.com/analytics-vidhya/getting-started-with-markdown-and-rstudio-f75b1dff0796), or you can read [Chapter 2 of the book](https://github.com/1110sillabo/ProgrammmingDigitalHumanitiesBook/blob/master/Ch2%20-%20RStudio%20and%20Markdown/01_gettingstartewithRStudio_gitversion.md).
+
+GitHub renders Markdown files automatically (**how cool!**). Unfortunately, GitHub is used primarily to share code and not books about code. It renders Markdown (.md) and not RMarkdown (.Rmd) files.
+
+This is a minor issue. The whole content of the book is still there. Practically it means that:
+
+- cross-references between chapters are not going to be displayed. Imagine there's a link every time you see some for of \@ syntax (if you come from Latex, that  will look familiar);
+- footnotes are not rendered correctly (unfortunately RMarkdown and Git Markdown have different syntax for that). So, every time you see a caret (**^**) and square brackets it's a footnote. Example:^[This is a footnote].
+
+
+
+# Feedback and Open Issues
 
 Am I doing things right? Is something I am missing in the description of academia? Is there more I should add?
 
 (Besides that, the issue of *does my code suck* is always something a public repo help addressing. Yes, there will be code.)
 
-So feel free to peak at the [intro](link) and send feedback both here and with more academia-like methods. 
+So feel free to peak at the [intro](https://github.com/1110sillabo/ProgrammmingDigitalHumanitiesBook/blob/master/Ch1%20-%20Intro/index.md) and send feedback both here (the GitHub way) and with more academia-like methods. 
 
 ## Pictures and Photos
 

@@ -1,16 +1,3 @@
----
-title: "Programming Digital Humanities. Python (and More) for Academia"
-author: "Guglielmo Feis v. 0.1"
-date: "`r Sys.Date()`"
-site: "bookdown::bookdown_site"
-output:
-  bookdown::pdf_book:
-    toc: yes
-    number_sections: yes
-    toc_depth: 4
-documentclass: book
----
-
 # Prologue
 
 ## The Journey: Welcome to *HumanDemia*
