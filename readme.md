@@ -27,7 +27,9 @@ This is a minor issue. The whole content of the book is still there. Practically
 - cross-references between chapters are not going to be displayed. Imagine there's a link every time you see some for of \@ syntax (if you come from Latex, that  will look familiar);
 - footnotes are not rendered correctly (unfortunately RMarkdown and Git Markdown have different syntax for that). So, every time you see a caret (**^**) and square brackets it's a footnote. Example:^[This is a footnote].
 
+## Links
 
+You can click on the links that are displayed. If you have visual issues with links showed in their extended form and not as 'here' (with link working once clicked) remember that the book is also meant to be read. And with ebooks or real book the link is not an information that can be hidden.
 
 # Feedback and Open Issues
 
