@@ -1,26 +1,24 @@
 # if statements
+# Overcommented for explanatory reasons
 
-#check if a number is above threshold
-
+# Check if a number is above threshold
 number = int(input('Insert a high enough number'))
-#note the int conversion
+# Note the int conversion
 
 if number > 10:
     print('Ok, your number is big enough')
 
-#same case, but adding an 'else' which revelas the threshold
-
-
+# Same case, but adding an 'else' which revelas the threshold
 number = int(input('Insert a high enough number'))
-#note the int conversion
+# Note the int conversion
 
 if number > 10:
     print('Ok, your number is big enough')
 else:
     print('Sorry, it has to be more than 10')
     
-#using elif
-#another silly game elif make tiers of ambition possible
+# Using elif
+# Another silly game elif make tiers of ambition possible
 number = int(input('Measure your ambition. Enter a number'))
 
 if number <0:
@@ -33,6 +31,6 @@ elif 101 < number < 9000:
     print('Gulp')
 elif number > 9000:
     print('Over 9000!')
-#did we cover all the outcomes? Nope!
+# Did we cover all the outcomes? Nope!
 else:
     print('case not considered')

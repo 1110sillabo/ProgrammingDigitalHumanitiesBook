@@ -1,5 +1,5 @@
-#Norvig spell-correct
-#see description here https://norvig.com/spell-correct.html
+# Norvig's spell-correct
+# See description here https://norvig.com/spell-correct.html
 
 import re
 from collections import Counter

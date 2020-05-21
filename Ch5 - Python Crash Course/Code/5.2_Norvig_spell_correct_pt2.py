@@ -1,5 +1,5 @@
-#continuation of Norvig's spell-correct (spell.py)
-#see description here https://norvig.com/spell-correct.html
+# Continuation of Norvig's spell-correct (spell.py)
+# See description here https://norvig.com/spell-correct.html
 
 
 

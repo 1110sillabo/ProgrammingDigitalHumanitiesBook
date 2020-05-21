@@ -1,13 +1,13 @@
-#one-liner hello world
+# One-liner hello world
 
 print("Hello world!")
 
-#functional hello world
+# Functional hello world
 
 def say_hello():
     print("Hello world!")
 
-#functional with arguments
+# Functional with arguments
 
 def great_a_person(name):
     print("Hi, ", name)
