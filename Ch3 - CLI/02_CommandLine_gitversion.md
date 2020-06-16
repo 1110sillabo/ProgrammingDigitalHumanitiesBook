@@ -1,4 +1,5 @@
-# Command Line Interface and Git(Hub): Get Ready for Machine Talk and Cooperating with the World {#ch3}
+{#ch3}
+# Command Line Interface and Git(Hub): Get Ready for Machine Talk and Cooperating with the World
 
 Your second installment in the *HumanDemia* onboard is designed to bring you back to the roots of human-machine interactions. Command-Line Interfaces (CLI) are a primary tool to communicate with machines. Instead of pointing, clicking or touching (graphics stuff of a GUI) you simply write down what do you want your machine to do. 
 

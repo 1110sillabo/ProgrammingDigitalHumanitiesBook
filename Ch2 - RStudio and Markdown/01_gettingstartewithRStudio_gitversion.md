@@ -1,4 +1,5 @@
-# The Universal Typing Machine: Markdown and RStudio {#ch2}
+{#ch2}
+# The Universal Typing Machine: Markdown and RStudio
 
 Your journey at *HumanDemia* starts in an unexpected way. They want to you to leave behind your wordprocessor. That's not simply leaving BrandedTextEditor for OpenTextEditor.
 
@@ -214,8 +215,7 @@ It is worth knowing how .bib files are written and what they look like, so that 
 To produce the .bib file we can make our life easier and use a tool like Mendeley (https://www.mendeley.com/?interaction_required=true) or JabRef (https://www.jabref.org/) or something else. Feel free to do your research and find out what you prefer. If you are lucky some databases (e.g. philpapers.org) allow you to export bibliographies in .bib mode.
 
 Both software mentioned above have browser plugins to allow you to retrive biliographical data from the pages you visit.
-You can work out a comparison on your own.^[Mendeley has Springer involved with it. JabRef is an open source, you can see the code and solve issues on GitHub (it's Java-based).
-I sorted out an issue with a huge .bib file using JabRef. I then build a new bib base with Mendeley relying on the plug-in mainly, which worked decently enough. The Mendeley-Word integration worked but not that smoothly.]
+You can work out a comparison on your own.^[Mendeley has Springer involved with it. JabRef is an open source, you can see the code and solve issues on GitHub (it's Java-based). I sorted out an issue with a huge .bib file using JabRef. I then build a new bib base with Mendeley relying on the plug-in mainly, which worked decently enough. The Mendeley-Word integration worked but not that smoothly.]
 
 
 Anyway, no matter what tools you are using you'll find your way to produce your .bib file. Now we have a basic understanding of .bib files. Our goal is to have a .bib file to feed to our preamble. Then, through the preamble, we will manage our bibliographic details and we are going to quote the references through our main document.

@@ -1,4 +1,5 @@
-# StartUp Optimization, Corpora Builder and Corpora Opener {#ch7}
+{#ch7}
+# StartUp Optimization, Corpora Builder and Corpora Opener
 
 It is time to start building something that has tangible results.
 
@@ -476,7 +477,7 @@ Our next task is that of *building a filter based on our query*. The items we ne
 4. a processed query to activate the filter;
 5. a device to check that, for each item in the list of links, the terms isolated in the query are present.
 
-We already know that this tool in point 5 is, regular expression can be pretty handy for that. This time we are only going to **re.search** if the term in the query is there or not. Go back to chapter \@ref(ch5) for a refresher on regular expression and check the docs for the re module (which is part of the standard library).^[Here we go: https://docs.python.org/3/library/re.html ]
+We already know that this tool in point 5 is, regular expression can be pretty handy for that. This time we are only going to **re.search** if the term in the query is there or not. Go back to chapter [5](#ch5) for a refresher on regular expression and check the docs for the re module (which is part of the standard library).^[Here we go: https://docs.python.org/3/library/re.html ]
 
 Assuming all the items from 1 to 4 are there, a filter is basically doing what follows:
 

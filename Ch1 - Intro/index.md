@@ -66,19 +66,19 @@ Sometimes that's going to be easy, others it will be more difficult (there are g
 
 Also, the shared research background allows us to work on the "start with something kinda known and move into the unknown" approach. The first weeks (part I) include something a little bit more technical than using reply to all in emails that still is not programming. There we'll set our working environment.
 
-After setting clearly the ground *here* and why we should care about coding in the humanities, the book gets practical in chapter \@ref(ch2).
+After setting clearly the ground *here* and why we should care about coding in the humanities, the book gets practical in chapter [2](#ch2).
 
 With *RStudio* and *Markdown* we build an environment with automated bibliography, control over the table of contents and spell-check.^[It's F7 in RStudio. Yes, get ready for some shortcuts.]
 
-Further, GitHub integration is just around the corner, which means: cooperation with the world. That's what we cover next (chapter \@ref(ch3)), and that gives us a chance to (re)discover command-line interfaces (is there anybody from MS-DOS world? or Linux? or text adventures?).
+Further, GitHub integration is just around the corner, which means: cooperation with the world. That's what we cover next (chapter [3](#ch3)), and that gives us a chance to (re)discover command-line interfaces (is there anybody from MS-DOS world? or Linux? or text adventures?).
 
 Markdown is also a cool tool to develop a nice logging system^[Feel free to elaborate a way to develop your logging system and bend the tools provided here to your needs. In a way when you start learning you are going to be your main dataset.] and an easy starter for HTML if you are interested into it, and it fosters a "learn, write, master" approach to the kind of perpetual learning you know well as a researcher.
 
-The final step (chapter \@ref(ch4)) will be to install *Python through the Anaconda distribution*. This makes our life easier and allows us to get started with Python programming.
+The final step (chapter [4](#ch4)) will be to install *Python through the Anaconda distribution*. This makes our life easier and allows us to get started with Python programming.
 
 We are ready for Part II, the hardest trade-off for the book. There's a crash course in Python and tools to allow you to transition from Python basics to gaining confidence.
 
-Chapter \@ref(ch5) is where Python kicks in. Here we stop a little bit on some of the definitions, programming mechanics and data structures. It is generally quite easy to break down the pieces of a problem, like:
+Chapter [5](#ch5) is where Python kicks in. Here we stop a little bit on some of the definitions, programming mechanics and data structures. It is generally quite easy to break down the pieces of a problem, like:
 
 1. connect to a search engine;
 2. search the term you need for your research;
@@ -90,12 +90,12 @@ Chapter \@ref(ch5) is where Python kicks in. Here we stop a little bit on some o
 Still, creating a program that does this might not be so easy. We need to learn a language that instructs our dumb machine friend to do that.
 Again, the research-based background will help to keep the crash course contained in this chapter short(ish).
 
-Chapter \@ref(ch6) has instructions, warnings and things I wish I had known. I present some of the areas that are mysterious for Python beginners. They vary from jargon and vocabulary issues (something easy to figure out) to more complex things such as understanding Python's internal mechanics and coding for others. (Code has idioms, as well as real languages.)
+Chapter [6](#ch6) has instructions, warnings and things I wish I had known. I present some of the areas that are mysterious for Python beginners. They vary from jargon and vocabulary issues (something easy to figure out) to more complex things such as understanding Python's internal mechanics and coding for others. (Code has idioms, as well as real languages.)
 
 Given the wide avaiability of tutorials as well as ready-made code we can paste and - if we are lucky - use to get things done, we discuss a bit how to approach tutorials *as learning tools*.
 The last part is about the fine art of *reading the docs*. This is vital to get confidence with software and programming.
 
-This chapter ends part II, but you are likely to re-read it again once you are done with part III. In fact, in part III we are going through some programs. We are going to deal mainly with automation tools and search engine processing in chapter \@ref(ch7). Chapter \@ref(ch8) is all on extracting references and visualizing citation graphs.
+This chapter ends part II, but you are likely to re-read it again once you are done with part III. In fact, in part III we are going through some programs. We are going to deal mainly with automation tools and search engine processing in chapter [7](#ch7). Chapter [8](#ch8) is all on extracting references and visualizing citation graphs.
 
 ## Who's this Book for
 
@@ -120,7 +120,7 @@ Ok, so much for polemics and things we know already.
 
 Real-life and politics reminds us how our habit change and we (sometimes) can be more effective when a bit of technology kicks in. (Still, beware of what you do with your data. As researchers you should probably know that already.)
 
-Think about paying taxes online (if the site works), online banking, streaming videos vs. going to the Blockbuster, Coursera education and related stuff (Udemy, freecode.org). The Italian reader may even remember Berlusconi's "Tre I" or more recent Movimento 5 Stelle "everything blockchain to achieve transparency".^[According to a study, in Italy, 'technology' means "something you don't understand, to achieve something that cannot be done, but that earns you a lot of votes". Of course the study was never published because of [conspircy theory].]
+Think about paying taxes online (if the site works), online banking, streaming videos vs. going to the Blockbuster, Coursera education and related stuff (Udemy, freecode.org). The Italian reader may even remember Berlusconi's "Tre I" or more recent Movimento 5 Stelle "everything blockchain to achieve transparency".^[According to a study, in Italy, 'technology' means "something you don't understand, to achieve something that cannot be done, but that earns you a lot of votes". Of course the study was never published because of enter-your-conspircy-theory.]
 
 Here's a little list of the benefits of learning *enough* tech-stuff to be *dangerous*:
 
@@ -207,7 +207,7 @@ It is better to show the code you wrote and understand. There is some time neede
 
 The setup we are going to use offers us many ways to explore a problem or a feature by way of writing code.
 
-Here's a little spoiler for you of IPython from chapter \@ref(ch4).
+Here's a little spoiler for you of IPython from chapter [4](#ch4).
 
 IPython and its shell are great because *they prompt you to try things out*. Type and explore is a great method to learn and figure out what a command does.
 Programming languages are languages, and languages need to be practiced. This means that not only you have to understand a concept but also to use it quite a lot.
@@ -261,7 +261,7 @@ That's the way to go.
 
 ### Read the Docs
 
-(Note: there is another section in chapter \@ref(ch6) on the art and skill of reading the docs. But we all like appetizers.)
+(Note: there is another section in chapter [6](#ch6) on the art and skill of reading the docs. But we all like appetizers.)
 
 Here is some good news on learning to program: there are a lot of sources and resources out there (some are listed at the end of each chapter under the 'More Resources' heading). Further, each package, language or command is documented by its creator (or, at least, *it should be*).
 
@@ -332,6 +332,7 @@ There are also additional resources and links for the topics covered with book r
 
 If there are (keyboard) shortcuts worth knowing, they will be listed as a recap.
 
+The whole book has a repository on GitHub: https://github.com/1110sillabo/ProgrammingDigitalHumanitiesBook (fun fact: adding the link to the repo required a specific commit).
 
 
 ## Summary
@@ -361,4 +362,4 @@ Make a list of the actions you perform most often in front of the screen and lea
 
 Try some: "look, mum, no mouse!" working sessions.
 
-# (PART) Setting up the Environment {-}
+# Part Setting up the Environment #

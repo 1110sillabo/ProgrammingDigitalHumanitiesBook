@@ -1,4 +1,5 @@
-# Moving Forward: From Beginner to Pythonista {#ch6}
+{#ch6}
+# Moving Forward: From Beginner to Pythonista
 
 'Congrats for mastering Python syntax,' says the *HumanDemia* welcome screen. 'You are probably already playing out with your newly hardly-acquired knowledge. Enjoy this phase.'
 
@@ -351,4 +352,4 @@ You can explore some python tricks (or contribute yours) here: https://github.co
 
 If you want to start doing some work and projects try this out: http://pythonpracticeprojects.com/.
 
-# (PART) Programming for Fun and the Academia {-}
+# Part Programming for Fun and the Academia #

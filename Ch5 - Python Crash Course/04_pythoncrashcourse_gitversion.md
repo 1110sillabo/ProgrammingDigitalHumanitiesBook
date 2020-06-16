@@ -1,4 +1,5 @@
-# Python Crash Courses {#ch5}
+{#ch5}
+# Python Crash Courses
 
 "Programming languages are **languages**," says the *HumanDemia* teaching material. "They also have dialects and programming styles. They are alive and have communities". 
 
@@ -159,7 +160,7 @@ def edits2(word):
 
 Ok, we haven't even started with the rules of Python syntax and we were *already* able to grasp quite a lot of a far from obvious program. There's a reason why Python is sometimes referred to as "pseudo-code that actually runs".
 
-If you are curious about what the program was, that was Peter Norvig's spell checker. Here's the full code and explanation: https://norvig.com/spell-correct.html. Feel free to have a look.^[Norvig works at Google and, among many other things, he has a book called *Paradigms of Artificial Intelligence Programming* you can read for free here: https://github.com/norvig/paip-lisphttps://github.com/norvig/paip-lisp. ]
+If you are curious about what the program was, that was Peter Norvig's spell checker. Here's the full code and explanation: https://norvig.com/spell-correct.html. Feel free to have a look.^[Norvig works at Google and, among many other things, he has a book called *Paradigms of Artificial Intelligence Programming* you can read for free here: https://github.com/norvig/paip-lisp, yes, GitHub is that cool.]
 
 "That's a nice example!", you find yourself thinking. Ok, it was non-obvious but it resonates. "It seems people at *HumanDemia* want me to critically reflect on the tools I use in my daily work at quite a different level," you think. Next time RStudio doesn't catch a typo we will be able to reason about it from a different perspective.
 

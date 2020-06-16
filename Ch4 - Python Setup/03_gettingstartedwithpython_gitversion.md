@@ -1,8 +1,9 @@
-# Getting Started with Python: Anaconda, Jupyter Notebooks, Google CoLabs and Virtual Environments {#ch4}
+{#ch4}
+# Getting Started with Python: Anaconda, Jupyter Notebooks, Google CoLabs and Virtual Environments
 
 This is the last module in your *HumanDemia* on board. After that, most of the boring stuff will be completed. The environment will be set and you'll be ready to use these new tools to build something and make your life easier.
 
-In this chapter we are summing up what we did in the two chapters before. We need to install our Python development environment (in chapter \@ref(ch2) we used RStudio as an IDE for Markdown). Here we are going to play a game of snakes, and install Python by using the Anaconda distribution.
+In this chapter we are summing up what we did in the two chapters before. We need to install our Python development environment (in chapter [2](#ch2) we used RStudio as an IDE for Markdown). Here we are going to play a game of snakes, and install Python by using the Anaconda distribution.
 
 Through Anaconda we are going to get the following:
 
@@ -14,7 +15,7 @@ Through Anaconda we are going to get the following:
 - **IPython**: a nice interactive shell to program in real time that we've already mentioned;
 - **Jupyter Notebooks**: shared work books of Python code - think of them as a git hubbed version of IPython sessions.
 
-As you see, IDE tools (chapter \@ref(ch2)) and command line tools (chapter \@ref(ch3)) sum up here nicely, to give us Python.
+As you see, IDE tools (chapter [2](#ch2)) and command line tools (chapter [3](#ch3)) sum up here nicely, to give us Python.
 
 The path for this chapter features installing Anaconda, explaining its benefits and then provide details about Google Colab, another tool to perform Python based operations, this time without the need to install any code. There are no excuses not to code.
 
@@ -42,7 +43,7 @@ Basically while installing Anaconda you will be asked:
 2. if you want Anaconda to be the default program to run Python files;
 3. how to interact with PATH variables.
 
-If there's something confusing, the answer is in the [installation documentation](https://docs.anaconda.com/anaconda/install/).^[For bonus points on Windows and path variables see [here](https://en.wikipedia.org/wiki/PATH_(variable)).]
+If there's something confusing, the answer is in the installation documentation here at https://docs.anaconda.com/anaconda/install/, check it.^[For bonus points on Windows and path variables see https://en.wikipedia.org/wiki/PATH_(variable) as an intro.]
 
 Ok, now you should have Anaconda installed which means you have Python! *Programming is close*.
 
@@ -275,4 +276,4 @@ Installing Anaconda was the main task of this chapter. Still, there's something 
 - you can have virtual environments *without* Anaconda. Anaconda is there to simplify things with its shell. Find out how to work with virtual environments and packages installation outside the Anaconda environment. (*Hint*: you have to learn what the '**pip**' acronym is in the Python world and how it works).
 
 
-# (PART) Conquering Python {-}
+# Part Conquering Python #

@@ -1,6 +1,7 @@
-# Scraping Bibliographies with Bibliographer {#ch8}
+{#ch8}
+# Scraping Bibliographies with Bibliographer
 
-The program for this section is a more systematic implementation of the practice session of regex we had in chapter \@ref(ch5) - Cory Doctorow was right after all, regex matters. This time we are going through the whole process: we start with a pdf paper, read it, extract the references, and end up with a .csv file with the needed references.
+The program for this section is a more systematic implementation of the practice session of regex we had in chapter [5](#ch5) - Cory Doctorow was right after all, regex matters. This time we are going through the whole process: we start with a pdf paper, read it, extract the references, and end up with a .csv file with the needed references.
 
 From there, you can go into whatever program you like and represent the references in a graph. Welcome data visualization!
 
@@ -247,7 +248,7 @@ def preprocess(txt: Text) -> Text:
 
 Now that we have the text ready to be processed, it is regexes time.
 
-We already know how this is going to work from chapter \@ref(ch5). Nonetheless, here we are testing a *whole* paper on *different* regexes. If you have a small set of papers you can define further rules to optimize the regex for the different journals, but if you are working on a general purpose tool you can't rule out cases.
+We already know how this is going to work from chapter [5](#ch5). Nonetheless, here we are testing a *whole* paper on *different* regexes. If you have a small set of papers you can define further rules to optimize the regex for the different journals, but if you are working on a general purpose tool you can't rule out cases.
 
 Different regexes are stored in the constant list REGEX_LIST. Feel free to uncomment some of them if you need to.
 
