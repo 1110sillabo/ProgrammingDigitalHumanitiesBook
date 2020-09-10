@@ -6,7 +6,7 @@ You just joined *HumanDemia*, a new hi-tech campus focused on Humanities.
 It is actually nothing futuristic. Do not imagine the Los Angeles of the Tyrrel Corps nor Esthar city.
 
 It's a small campus (by US standards) with libraries containing physical copies of books you can touch and borrow.
-The notable things are that *HumanDemia* members know the difference between reply, forward and answer all; they can also sort the candidate sheet by student id, alphabetically or by registration date. The strangest thing is that nobody complains about wasting time at the meeting. >Probably they lie.
+The notable things are that *HumanDemia* members know the difference between reply, forward and answer all; they can also sort the candidate sheet by student id, alphabetically or by registration date. The strangest thing is that nobody complains about wasting time at the meeting. Probably they lie.
 
 As you meet the Dean over coffee, she tells you that personal projects are welcomed and that the Uni Council is thinking about integrating a little bit of extra technical competencies into both the staff's competencies and the *curricula*.
 
@@ -33,7 +33,7 @@ After the Python month(s), you can take some time off your *regular* job. Then y
 You say 'yes', doubtful and go away. Training starts next week.
 
 
-## A Difficult Trade-Off (including Book Summary)
+## A Difficult Trade-Off (Including Book Summary)
 
 Let's make the Dean's deal more explicit. I want to write a book that gets you started and allows you to write the best programs you have in your mind to fit your (academic and intellectual) needs. Ideally you should be more productive, but what matters is that you feel fine and rewarded with what you are doing.
 
@@ -362,4 +362,5 @@ Make a list of the actions you perform most often in front of the screen and lea
 
 Try some: "look, mum, no mouse!" working sessions.
 
-# Part Setting up the Environment #
+{class: part}
+# Part 1 Setting up the Environment 

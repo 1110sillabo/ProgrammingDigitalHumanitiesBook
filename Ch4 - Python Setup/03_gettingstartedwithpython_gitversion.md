@@ -275,5 +275,6 @@ Installing Anaconda was the main task of this chapter. Still, there's something 
 - R has notebooks as well. Have a look at how they work in RStudio. (Yes, by now you know 'have a look' means 'read the docs');
 - you can have virtual environments *without* Anaconda. Anaconda is there to simplify things with its shell. Find out how to work with virtual environments and packages installation outside the Anaconda environment. (*Hint*: you have to learn what the '**pip**' acronym is in the Python world and how it works).
 
+{class: part}
+# Part Conquering Python 
 
-# Part Conquering Python #

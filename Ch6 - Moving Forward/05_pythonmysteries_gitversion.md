@@ -352,4 +352,5 @@ You can explore some python tricks (or contribute yours) here: https://github.co
 
 If you want to start doing some work and projects try this out: http://pythonpracticeprojects.com/.
 
-# Part Programming for Fun and the Academia #
+{class: part}
+# Part Programming for Fun and the Academia

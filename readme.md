@@ -1,6 +1,8 @@
 # Programming Digital Humanities. Python (and More) for Academia: Getting Started with the GitHub Repo
 
-This is the repo for my book **Programming Digital Humanities. Python (and More) for Academia**.
+![Yep, there's also a ookcover](bookcover.png)
+
+This is the repo for my book **Programming Digital Humanities. Python (and More) for Academia**. You can download the book in your favourite format from [LeanPub](https://leanpub.com/programming-digital-humanities-python-for-academia).
 
 The idea of the book is to provide a gentle introduction to programming for academics outside Computer Science/Math and for curious people in general, without disappointing this curiosity. The hard task is that of combining:
 
